@@ -4,6 +4,10 @@ A Flask-based app to extract and interact with structured data from bill PDFs us
 
 ---
 
+## 🖼️ Sample Screenshot
+
+![App Screenshot](/images/Screenshot_Bill_Assistant.png)
+
 ## 🚀 How to Run This App
 
 ### 🪟 For Windows (Recommended)
@@ -65,4 +69,3 @@ Flask <br>
 pdfplumber <br>
 OpenAI GPT (via Instructor + OpenAI API) <br>
 Pydantic
-
