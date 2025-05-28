@@ -62,10 +62,3 @@ The app will extract structured data using GPT.
 Click “Save Data” to save the extracted information as a JSON file.
 
 Use the chatbox to ask any questions about the bill.
-
-## 📦 Tech Stack
-Python <br>
-Flask <br>
-pdfplumber <br>
-OpenAI GPT (via Instructor + OpenAI API) <br>
-Pydantic
